@@ -14,4 +14,4 @@ Trang web được chia làm 6 tab:
 
 Folder này bao gồm:
 * Các file html + css của từng tab
-* Foleder hình ảnh được sử dụng trong bài
+* Folder hình ảnh được sử dụng trong bài
