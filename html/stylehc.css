@@ -85,6 +85,76 @@ nav img{ /*Select and style every <img> element that is inside <nav> elements:*/
     margin: auto;
 }
 
+/*Bảng*/
+.list .hdt{
+    padding-top: 50px;
+    margin: auto;
+    text-align: center;
+}
+.tablehc{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0% 8%;
+    font-size: 20px;
+}
+table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+td, th{
+    width: 120px;
+}
+th{
+    height: 40px;
+}
+
+/*Biểu đồ 1*/
+.list .hdc{
+    font-size: 50px;
+    margin: 3% 10% 2% 10%;
+    border-bottom: 3px solid #1f1f1f;
+}
+.headerrow3{
+    padding: 5px 0px 10px 0px;
+    text-align: center;
+    font-size: 35px;
+}
+.row3{
+    margin: 3% 10% 2% 10%;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0% 8%;
+    font-size: 20px;
+}
+.row3 .col1 table{
+    font-size: 25px;
+}
+
+
+/*Biểu đồ 2*/
+.list .hdc2{
+    font-size: 50px;
+    margin: 3% 10% 2% 10%;
+    border-bottom: 3px solid #1f1f1f;
+}
+.headerrow4{
+    padding: 5px 0px 10px 0px;
+    text-align: center;
+    font-size: 35px;
+}
+.row4{
+    margin: 3% 10% 2% 10%;
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0% 8%;
+    font-size: 20px;
+}
+.row4 .col1 table{
+    font-size: 25px;
+}
+
 /*FOOTER*/
 footer{
     color: #1f1f1f;
